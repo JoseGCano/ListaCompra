@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "producto1",
+        "imagen": "./react.svg",
+        "descripcion": "bla bla bla bla",
+        "precio": 28,
+        "unidadesDisp": 300
+    },
+    {
+        "id": 2,
+        "nombre": "producto2",
+        "imagen": "./react.svg",
+        "descripcion": "bla bla bla bla",
+        "precio": 350,
+        "unidadesDisp": 30
+    },
+    {
+        "id": 3,
+        "nombre": "producto3",
+        "imagen": "./react.svg",
+        "descripcion": "bla bla bla bla",
+        "precio": 40.53,
+        "unidadesDisp": 25
+    },
+    {
+        "id": 4,
+        "nombre": "producto4",
+        "imagen": "./react.svg",
+        "descripcion": "bla bla bla bla",
+        "precio": 23.35,
+        "unidadesDisp": 2
+    },
+    {
+        "id": 5,
+        "nombre": "producto5",
+        "imagen": "./react.svg",
+        "descripcion": "bla bla bla bla",
+        "precio": 18.00,
+        "unidadesDisp": 0
+    }
+]
